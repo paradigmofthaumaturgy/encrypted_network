@@ -1,0 +1,41 @@
+hosts:
+  one: New_York
+  two: San_Francisco
+  three: Amsterdam
+  four: Singapore
+  five: London
+  six: Frankfurt
+  seven: Toronto
+  eight: Bangalore
+
+hosts_one:
+  label: New York, America
+  address: 0.0.0.0
+
+hosts_two:
+  label: San Francisco, America
+  address: 0.0.0.0
+  
+hosts_three:
+  label: Amsterdam, Netherlands
+  address: 0.0.0.0
+  
+hosts_four:
+  label: Singapore
+  address: 0.0.0.0
+  
+hosts_five:
+  label: London, England
+  address: 0.0.0.0
+  
+hosts_six:
+  label: Frankfurt, Germany
+  address: 0.0.0.0
+  
+hosts_seven:
+  label: Toronto, Canada
+  address: 0.0.0.0
+  
+hosts_eight:
+  label: Bangalore, India
+  address: 0.0.0.0
